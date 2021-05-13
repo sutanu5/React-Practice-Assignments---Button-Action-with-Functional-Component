@@ -9,7 +9,7 @@ function App() {
   return (
     <div id="main">
     <button id="click" type ="button" onClick = {onclicking}>Click Me</button>
-    <p id="para">{greetings}</p>
+    <para id="para">{greetings}</para>
       // Do not alter the main div
     </div>
   );
